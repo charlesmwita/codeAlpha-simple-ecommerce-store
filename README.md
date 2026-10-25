@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ShopEase E-commerce
 
 A basic e-commerce app built with Next.js, React, TypeScript, and PostgreSQL using Drizzle ORM.
@@ -35,6 +34,3 @@ A basic e-commerce app built with Next.js, React, TypeScript, and PostgreSQL usi
    ```
 
 Open http://localhost:3000. The product catalog seeds sample products the first time it loads.
-=======
-# codeAlpha-simple-ecommerce-store
->>>>>>> c1f9c6c0f8498d4904220cd1a65ccd707d964bd3
